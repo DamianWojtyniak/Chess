@@ -1,0 +1,11 @@
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\bin\Debug\Chess.exe.config
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\bin\Debug\Chess.exe
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\bin\Debug\Chess.pdb
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.TBoard.resources
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.exe
+C:\Users\Damian Wojtyniak\Downloads\Chess-master\Chess\obj\Debug\Chess.pdb
